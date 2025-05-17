@@ -1,6 +1,6 @@
 # java_programs
 # Program 1a-ListInterfaceDemo
-- **ListInterfaceDemo** - (https://github.com/kavyashreenayak29/java_programs/blob/main/program1a.java)--**ListInterfaceDemo output** - (https://github.com/kavyashreenayak29/java_programs/blob/main/p1output.png)
+- **ListInterfaceDemo** - (https://github.com/kavyashreenayak29/java_programs/blob/main/program1a.java) --**ListInterfaceDemo output** - (https://github.com/kavyashreenayak29/java_programs/blob/main/p1output.png)
 - **ArrayList1 output**-(https://github.com/kavyashreenayak29/java_programs/blob/main/ArrayList1.png)
 - **ArrayList2 output**-(https://github.com/kavyashreenayak29/java_programs/blob/main/ArrayList2.png)
 - **ArrayList3 output**-(https://github.com/kavyashreenayak29/java_programs/blob/main/ArrayList3.png)
